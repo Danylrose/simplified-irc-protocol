@@ -12,7 +12,9 @@ client's command input.
 
 ## Building the code
 
-javac *.java if you are in p1 directory, javac p1/*.java if you are in the parent directory. 
+* javac *.java if you are in p1 directory, javac p1/*.java if you are in the parent directory.
+* To Run Server: Java ChatServer [port]
+* To Run Client: Java ChatClient [host] [port]
 
 ## Testing
 
