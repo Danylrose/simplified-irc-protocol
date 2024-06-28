@@ -1,7 +1,7 @@
 # p1
 
 * Author: Daniel Rosales-Rodriguez
-* Class: CS455 or CS555 [Distributed Systems] Section #001
+* Class: CS455/CS555 [Distributed Systems] Section #001
 * Semester: Spring 2024
 
 ## Overview
